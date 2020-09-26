@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Boxes_main" target="11" />
+      <module name="Problems-Boxes_test" target="11" />
+      <module name="Problems-Right_Rotation_main" target="11" />
+      <module name="Problems-Right_Rotation_test" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_main" target="11" />
+      <module name="Problems-Two_numbers_never_occur_to_each_other_test" target="11" />
+      <module name="Readability_Score-task_main" target="11" />
+      <module name="Readability_Score-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

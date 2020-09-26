@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes.iml" group="Readability_Score/Problems-Boxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes_main.iml" group="Readability_Score/Problems-Boxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Boxes/Problems-Boxes_test.iml" group="Readability_Score/Problems-Boxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation.iml" group="Readability_Score/Problems-Right_Rotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_main.iml" group="Readability_Score/Problems-Right_Rotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Right Rotation/Problems-Right_Rotation_test.iml" group="Readability_Score/Problems-Right_Rotation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other.iml" group="Readability_Score/Problems-Two_numbers_never_occur_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_main.iml" group="Readability_Score/Problems-Two_numbers_never_occur_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur to each other/Problems-Two_numbers_never_occur_to_each_other_test.iml" group="Readability_Score/Problems-Two_numbers_never_occur_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" group="Readability_Score" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Readability_Score/util" />
+    </modules>
+  </component>
+</project>
